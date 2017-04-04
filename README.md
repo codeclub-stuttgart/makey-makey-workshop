@@ -6,3 +6,7 @@ Die Welt ist voller kleiner Probleme: Wer klaut immer den Joghurt aus dem Kühls
 
 Für Kinder von 8 bis 13 Jahren. 
 Bitte anmelden unter Tel. 0711 216-96552 oder stadtbibliothek.kinder@stuttgart.de
+
+#### Demos
+![pong](./pong/pong.png)
+![piano](./piano/piano.png)
