@@ -27,3 +27,9 @@ Es gibt eine Vorlage mit der man seinen Protoype bauen kann.
 Jeder Teilnehmer bekommt am Ende des Events eine kleine Urkunde mit einem ausgedruckten Bild vom Teilnehmer zusammen mit der Erfindung.
 
 ![urkunde](./urkunde/urkunde_mw.png)
+
+## Feedback
+
+Am Ende des Events sollen die Teilnehmer einen kurzen Feedbackbogen ausfüllen.
+
+![Feedback](./feedback/feedback.png)
