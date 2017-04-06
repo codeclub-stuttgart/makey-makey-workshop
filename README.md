@@ -7,7 +7,7 @@ Die Welt ist voller kleiner Probleme: Wer klaut immer den Joghurt aus dem Kühls
 Für Kinder von 8 bis 13 Jahren. 
 Bitte anmelden unter Tel. 0711 216-96552 oder stadtbibliothek.kinder@stuttgart.de
 
-#### Einführung
+## Einführung
 
 Als Einführungs sollen die Kinder eine Idee davon bekommen, was Makey Makey ist und wie es funktioniert. Dazu gibt es zwei einfache Beispiele mit denen die Kinder experimentieren können. 
 
@@ -22,3 +22,8 @@ Es gibt eine Vorlage mit der man seinen Protoype bauen kann.
 
 ![wecker](./wecker/wecker.png)
 
+## Urkunde
+
+Jeder Teilnehmer bekommt am Ende des Events eine kleine Urkunde mit einem ausgedruckten Bild vom Teilnehmer zusammen mit der Erfindung.
+
+![urkunde](./urkunde/urkunde_mw.png)
