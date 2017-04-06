@@ -7,6 +7,18 @@ Die Welt ist voller kleiner Probleme: Wer klaut immer den Joghurt aus dem Kühls
 Für Kinder von 8 bis 13 Jahren. 
 Bitte anmelden unter Tel. 0711 216-96552 oder stadtbibliothek.kinder@stuttgart.de
 
-#### Demos
+#### Einführung
+
+Als Einführungs sollen die Kinder eine Idee davon bekommen, was Makey Makey ist und wie es funktioniert. Dazu gibt es zwei einfache Beispiele mit denen die Kinder experimentieren können. 
+
 ![pong](./pong/pong.png)
 ![piano](./piano/piano.png)
+
+
+## Aufgabe: Der Wecker der Zukunft
+
+Im zweiten Teil geht es darum eigene Ideen zu entwickeln. Die Aufgabe lautet: Wie könnte der Wecker der Zukunft aussehen?
+Es gibt eine Vorlage mit der man seinen Protoype bauen kann. 
+
+![wecker](./wecker/wecker.png)
+
